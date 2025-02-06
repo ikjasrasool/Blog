@@ -38,11 +38,7 @@ The **Blog Application** is a full-stack web platform where users can create, ed
 - Track the number of **views, likes, and comments** per blog.  
 - Display trending blogs based on user engagement.  
 - Provide an analytics dashboard for authors.  
-
-### **6. Responsive Design & SEO Optimization** 🌍
-- Mobile-friendly UI for seamless browsing.  
-- Search Engine Optimization (SEO) to improve blog visibility.  
-- Dark mode support for better user experience. 🌙  
+ 
 
 ## 4. User Roles & Permissions 👥
 | Role     | Permissions |
