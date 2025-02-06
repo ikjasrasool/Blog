@@ -45,4 +45,3 @@ A **Blog Application** is a platform where users can create, edit, publish, and 
 ### **Deployment**  
 - **GitHub Actions / Jenkins**  
 - **Vercel / Netlify / AWS** – Hosting 🚀
-
