@@ -30,7 +30,7 @@ A **Blog Application** is a platform where users can create, edit, publish, and 
 | **Author** | Create, edit, publish, and delete own blogs ✍️, manage comments on their posts. 💬 |
 | **Reader** | View, like, comment, and share blogs. 👀❤️📲 |
 
-## 5. Technical Stack 🛠️
+## 5. Technical Stack 
 ### **Frontend**  
 - **React.js / Next.js** – UI development  
 - **Tailwind CSS / Bootstrap** – Styling 🎨
